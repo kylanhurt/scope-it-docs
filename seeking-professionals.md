@@ -7,20 +7,20 @@ Since video publishing and streaming requires a considerable amount of engineeri
 * Developer positions will be expected to produce examples of previous code work (eg GitHub)
 
 
-### **Video encoding & transcoding specialist**:
+### Video encoding & transcoding specialist:
 * Experience working with user-uploaded video files and formatting to fit specifications of web-based Javascript video player
 * Server-side and command-line experience with video encoding / transcoding software (eg FFMPEG, Handbrake or equivalent software)
 
-### **Web-based Javascript video player developer**:
+### Web-based Javascript video player developer:
 * Experience working with online video player software (eg VideoJS or JWPlayer)
 * Proficiency in Javascript, including working with subscriber / publisher pattern and callbacks.
 * Bonus points for experience designing or styling video players skins
 
-### **Back-End Developer (Javascript + SQL)**:
+### Back-End Developer (Javascript + SQL):
 * 3+ years experience working with server-side Javascript (Node + Express)
 * AdonisJS or Laravel experience a plus
 * 3+ years experience working with relational databases (any variation of SQL)
 * Cloud deployment (Docker, Kubernetes, Google Cloud, AWS, Azure, etc) experience a must
 
-### **Online Video Advertising sales**:
+### Online Video Advertising sales:
 * Experience connecting advertisers to online video platforms, and working with developers to implement appropriate ad materials to be delivered to viewers
