@@ -2,7 +2,7 @@
 
 Our team is looking to build a video streaming platform using GoodBlock’s upcoming dStor technology to host and serve video content. The objective is to offer a competitive video publication service by taking a content creator-first stance by offering favorable compensation for value created through video content, real-time micropayments via the Telos blockchain for consumption of content by premium membership viewers, and an anti-censorship stance toward user-submitted content. (White paper pending)
 
-Since video publishing and streaming requires a considerable amount of engineering work, we are putting out a call for individuals with experience and skill-sets in areas that are critical to the success of the platform. Below is a list of these skills. If you or anyone you know has one or more of these skill sets and is interested in working with decentralized technology, then please contact us at kylan.hurt@gmail.com or join our [https://t.me/joinchat/AAAAAFW6c8mUAuGtfKuQ9A](Telegram Channel)
+Since video publishing and streaming requires a considerable amount of engineering work, we are putting out a call for individuals with experience and skill-sets in areas that are critical to the success of the platform. Below is a list of these skills. If you or anyone you know has one or more of these skill sets and is interested in working with decentralized technology, then please contact us at kylan.hurt@gmail.com or join our [Telegram Channel](https://t.me/joinchat/AAAAAFW6c8mUAuGtfKuQ9A)
 
 *Developer positions will be expected to produce examples of previous code work (eg GitHub)*
 
